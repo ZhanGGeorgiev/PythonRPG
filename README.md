@@ -8,7 +8,13 @@ A text-based graphical RPG built with Python and Pygame.
 - **Inventory:** Loot system with chests, piles, and a hotbar (1-5).
 
 ## How to Run
-1. Install Python.
-2. Install dependencies:
+
+1. **Install Python** if you haven't already.
+
+2. **Install dependencies** (this installs Pygame):
    ```bash
    pip install -r requirements.txt
+   
+3. **Run the game**:
+   ```bash
+   python main.py
